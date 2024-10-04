@@ -7,7 +7,7 @@ export async function getData() {
       params: {
         api_key: API_KEY,
       },
-});
+    });
     return response.data;
   } catch (error) {
     console.error('Error fetching data:', error);

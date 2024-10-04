@@ -13,7 +13,7 @@ getData().then((data) => {
     app.appendChild(title);
     app.appendChild(image);
     app.appendChild(description);
-} else {
+  } else {
     app.innerText = 'Failed to load data.';
   }
 });
