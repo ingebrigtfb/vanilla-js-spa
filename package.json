@@ -1,6 +1,6 @@
 {
   "name": "vanilla-js-spa",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A simple Vanilla JS SPA",
   "main": "index.js",
   "scripts": {
